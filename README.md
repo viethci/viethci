@@ -31,6 +31,12 @@ A directory of Vietnamese researchers and practitioners in Human–Computer Inte
 - Interests: data visualization, human-AI interaction, HCI
 - [Web](https://thinhnguyentruong.com/) · [GitHub](https://github.com/truongthinhnguyen03) · [ORCID](https://orcid.org/0009-0006-5441-7057) · [LinkedIn](https://www.linkedin.com/in/truongthinh-nguyen/) · [X](https://x.com/truongthinh_03)
 
+### Tram Tran (Trần Thị Minh Trâm)
+- Lecturer in Design, University of Sydney, Australia
+- Urban Interfaces Lab
+- Interests: interactions with autonomous vehicles, wearable AR
+- [Web](https://tramtranx.com/) · [Scholar](https://scholar.google.com.au/citations?user=IJzUb0UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4958-2465) · [LinkedIn](https://www.linkedin.com/in/minhtram90/)
+
 ## Add yourself
 
 Open a PR adding an entry under **Researchers & practitioners**, alphabetical by **given name**. Use whatever bullets fit you — affiliation, location, research interests, links, a one-line bio, current project, anything you'd share publicly.
