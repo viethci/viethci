@@ -43,6 +43,20 @@ A directory of Vietnamese researchers and practitioners in Human–Computer Inte
 - Interests: interactions with autonomous vehicles, wearable AR
 - [Web](https://tramtranx.com/) · [Scholar](https://scholar.google.com.au/citations?user=IJzUb0UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4958-2465) · [LinkedIn](https://www.linkedin.com/in/minhtram90/)
 
+### Tram Tran 
+- Lecturer in Design, University of Sydney, Australia
+- Urban Interfaces Lab
+- Interests: interactions with autonomous vehicles, wearable AR
+- [Web](https://tramtranx.com/) · [Scholar](https://scholar.google.com.au/citations?user=IJzUb0UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4958-2465) · [LinkedIn](https://www.linkedin.com/in/minhtram90/)
+Like this:
+
+### Hoang “Charlie” Vuong
+- Ph.D. Student in Computer Engineering, University of Texas at Arlington, USA
+- The Hybrid Atelier Lab at UTA
+- Interests: HCI, material sensing, digital fabrication, wearable sensing, medical device.
+- [Web](charlie-vuong.com) · [Scholar](https://scholar.google.com/citations?hl=en&user=ofrGvP0AAAAJ) · [ORCID](https://orcid.org/0009-0009-9649-1062) · [LinkedIn](https://www.linkedin.com/in/charlievuong056/)
+
+
 ## Add yourself
 
 Open a PR adding an entry under **Researchers & practitioners**, alphabetical by **given name**. Use whatever bullets fit you — affiliation, location, research interests, links, a one-line bio, current project, anything you'd share publicly.
