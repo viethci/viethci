@@ -50,7 +50,7 @@ A directory of Vietnamese researchers and practitioners in Human–Computer Inte
 - [Web](https://tramtranx.com/) · [Scholar](https://scholar.google.com.au/citations?user=IJzUb0UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4958-2465) · [LinkedIn](https://www.linkedin.com/in/minhtram90/)
 Like this:
 
-### Hoang “Charlie” Vuong
+### Hoang “Charlie” Vuong (Vương Hồng Hoàng)
 - Ph.D. Student in Computer Engineering, University of Texas at Arlington, USA
 - The Hybrid Atelier Lab at UTA
 - Interests: HCI, material sensing, digital fabrication, wearable sensing, medical device.
