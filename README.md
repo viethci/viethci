@@ -18,6 +18,12 @@ A directory of Vietnamese researchers and practitioners in Human–Computer Inte
 - Interests: HCI, mixed reality, interactive displays, mobile interaction, gestural interaction
 - [Web](https://duylekhanh.wixsite.com/mysite) · [Scholar](https://scholar.google.com/citations?user=jSOYfjYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/duy-k-le/) · [ACM](https://dl.acm.org/profile/99659081515)
 
+### Huyen N. Nguyen (Nguyễn Ngọc Huyền)
+- Postdoctoral Research Fellow, Harvard Medical School, Harvard University, USA
+- Interests: Data visualizations, synthetic personas, visualization retrieval, interactive & multimodal systems
+- Latest projects: [Multimodal Search Engine](https://gosling-lang.github.io/geranium/) | [Synthetic Personas for Visualization Evaluation](https://huyen-nguyen.github.io/sycamore/)
+- [GitHub](https://github.com/huyen-nguyen) · [LinkedIn](https://www.linkedin.com/in/huyen-n-nguyen/) · [ORCID](https://orcid.org/0000-0001-6554-2327) · [Scholar](https://scholar.google.com/citations?user=tsrO-ZgAAAAJ&hl=en) · [Web](https://huyennguyen.com/)
+
 ### Chi Thanh Vi (Vi Chí Thành)
 - Lecturer, International University (VNU-HCMC), Vietnam
 - CEO/CSO, Brain-Life Link Technology JSC
