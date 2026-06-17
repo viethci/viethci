@@ -18,6 +18,12 @@ A directory of Vietnamese researchers and practitioners in Human–Computer Inte
 - Interests: HCI, mixed reality, interactive displays, mobile interaction, gestural interaction
 - [Web](https://duylekhanh.wixsite.com/mysite) · [Scholar](https://scholar.google.com/citations?user=jSOYfjYAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/duy-k-le/) · [ACM](https://dl.acm.org/profile/99659081515)
 
+### Hoang “Charlie” Vuong (Vương Hồng Hoàng)
+- Ph.D. Student in Computer Engineering, University of Texas at Arlington, USA
+- The Hybrid Atelier Lab at UTA
+- Interests: HCI, material sensing, digital fabrication, wearable sensing, medical device.
+- [Web](charlie-vuong.com) · [Scholar](https://scholar.google.com/citations?hl=en&user=ofrGvP0AAAAJ) · [ORCID](https://orcid.org/0009-0009-9649-1062) · [LinkedIn](https://www.linkedin.com/in/charlievuong056/)
+
 ### Huyen N. Nguyen (Nguyễn Ngọc Huyền)
 - Postdoctoral Research Fellow, Harvard Medical School, Harvard University, USA
 - Interests: Data visualizations, synthetic personas, visualization retrieval, interactive & multimodal systems
@@ -42,20 +48,6 @@ A directory of Vietnamese researchers and practitioners in Human–Computer Inte
 - Urban Interfaces Lab
 - Interests: interactions with autonomous vehicles, wearable AR
 - [Web](https://tramtranx.com/) · [Scholar](https://scholar.google.com.au/citations?user=IJzUb0UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4958-2465) · [LinkedIn](https://www.linkedin.com/in/minhtram90/)
-
-### Tram Tran 
-- Lecturer in Design, University of Sydney, Australia
-- Urban Interfaces Lab
-- Interests: interactions with autonomous vehicles, wearable AR
-- [Web](https://tramtranx.com/) · [Scholar](https://scholar.google.com.au/citations?user=IJzUb0UAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-4958-2465) · [LinkedIn](https://www.linkedin.com/in/minhtram90/)
-Like this:
-
-### Hoang “Charlie” Vuong (Vương Hồng Hoàng)
-- Ph.D. Student in Computer Engineering, University of Texas at Arlington, USA
-- The Hybrid Atelier Lab at UTA
-- Interests: HCI, material sensing, digital fabrication, wearable sensing, medical device.
-- [Web](charlie-vuong.com) · [Scholar](https://scholar.google.com/citations?hl=en&user=ofrGvP0AAAAJ) · [ORCID](https://orcid.org/0009-0009-9649-1062) · [LinkedIn](https://www.linkedin.com/in/charlievuong056/)
-
 
 ## Add yourself
 
