@@ -26,6 +26,7 @@ A directory of Vietnamese researchers and practitioners in Human–Computer Inte
 
 ### Huyen N. Nguyen (Nguyễn Ngọc Huyền)
 - Postdoctoral Research Fellow, Harvard Medical School, Harvard University, USA
+- HIDIVE Lab at [DBMI](https://dbmi.hms.harvard.edu/), [HMS](https://hms.harvard.edu/)
 - Interests: Data visualizations, synthetic personas, visualization retrieval, interactive & multimodal systems
 - Latest projects: [Multimodal Search Engine](https://gosling-lang.github.io/geranium/) | [Synthetic Personas for Visualization Evaluation](https://huyen-nguyen.github.io/sycamore/)
 - [GitHub](https://github.com/huyen-nguyen) · [LinkedIn](https://www.linkedin.com/in/huyen-n-nguyen/) · [ORCID](https://orcid.org/0000-0001-6554-2327) · [Scholar](https://scholar.google.com/citations?user=tsrO-ZgAAAAJ&hl=en) · [Web](https://huyennguyen.com/)
